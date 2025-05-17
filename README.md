@@ -2,17 +2,9 @@
   <a href="https://www.alura.com.br/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/4975968?s=200&amp" alt="Alura" width="150">
   </a>
-  <br>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="150">
-  </a>
-  <br>
-  <a href="https://ai.google.dev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/344px-Google_Gemini_logo.svg.png" alt="Google Gemini" width="150">
-  </a>
 </p>
 
-# 🤖 Sistema de Pesquisa de Preços de Móveis e Produtos com Avaliação de Qualidade
+# 🤖 Projeto Imersão 3 Alura iA Google Gemini:  Sistema de Pesquisa de Preços de Móveis e Produtos com Avaliação de Qualidade
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gutobastos/imersao-iA-3-Alura/blob/main/projeto.ipynb)
 
@@ -82,11 +74,12 @@ O código é organizado em funções que definem o comportamento de cada agente:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **<img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="80"> Python**: A linguagem de programação principal utilizada no desenvolvimento.
-* **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/344px-Google_Gemini_logo.svg.png" alt="Google Gemini" width="80"> Google Gemini**: Utilizado para os modelos de linguagem avançados.
+* **<img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="150"> Python**: A linguagem de programação principal utilizada no desenvolvimento.
+* **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/344px-Google_Gemini_logo.svg.png" alt="Google Gemini" width="100"> Google Gemini**: Utilizado para os modelos de linguagem avançados.
 * **Google ADK (Agent Development Kit)**: Framework para criação e gerenciamento dos agentes.
 * **Google Search Tool**: Ferramenta para realizar pesquisas na web de forma eficiente.
-* **<img src="https://avatars.githubusercontent.com/u/4975968?s=200&amp" alt="Alura" width="80"> Alura**: Plataforma de ensino que inspirou e contribuiu para o desenvolvimento deste projeto.
+* **<img src="https://avatars.githubusercontent.com/u/4975968?s=200&amp" alt="Alura" width="60"> Alura**: Plataforma de ensino que inspirou e contribuiu para o desenvolvimento deste projeto.
+* **<img src="/img/vscodetransp.png" alt="Visual Studio Code" width="100"> Visual Studio Code**: Framework de desenvolvimento da Microsft.
 
 ## 🤝 Contribuição
 
