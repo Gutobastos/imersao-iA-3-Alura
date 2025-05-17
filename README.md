@@ -90,11 +90,10 @@ O código é organizado em funções que definem o comportamento de cada agente:
 
 ## 🤝 Contribuição
 
-Contribuições são sempre bem-vindas! Se você tiver ideias para melhorar este projeto, sinta-se à vontade para abrir issues e pull requests.
+<p align="center"><img src="https://avatars.githubusercontent.com/u/4975968?s=200&amp" alt="Alura" width="80"><img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="250"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/344px-Google_Gemini_logo.svg.png" alt="Google Gemini" width="160"><img src="/img/vscodetransp.png" alt="Visual Studio Code" width="200"></p>
+
 
 ## 🧑‍💻 Autor
-* **<img src="/img/" alt="Alura" width="80">
-<h2>Nome: Fabricio Augusto Oliveira Bastos.</h2>
-<h2>E-mail: fabricio.bastos.ba@gmail.com</h2>
-
-\[Seu Nome]
+<img src="https://avatars.githubusercontent.com/u/168025112?v=4" alt="Alura" width="150">
+<h4>Nome: Fabricio Augusto Oliveira Bastos</h2>
+<h4>E-mail: mailto: "fabricio.bastos.ba@gmail.com" </h2>
